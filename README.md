@@ -1,4 +1,4 @@
-[Quiz React App](https://react-quiz-457d1.firebaseapp.com/auth)
+[QUIZ REACT APP](https://react-quiz-457d1.firebaseapp.com/auth)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
