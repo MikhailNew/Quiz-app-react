@@ -1,6 +1,7 @@
 Project - [QUIZ REACT APP](https://react-quiz-457d1.firebaseapp.com/auth)
 - Take tests
 - To create a test you need to register
+This project was implemented according to the curriculum.
 
 --------------------------------------------------------------------------------
 
